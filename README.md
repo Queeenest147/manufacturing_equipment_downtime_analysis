@@ -15,17 +15,17 @@
 
 ## Table of Contents
 
-- [Executive Summary](#-Executive-Summary)
-- [Business Problem](#-Business-Problem)
-- [Tools Used](#-Tools-Used)
-- [Methodology](#-Methodology)
-- [Data Cleaning & Preparation](#-Data-Cleaning--Preparation)
-- [Dashboard Preview](#-Dashboard-Preview)
-- [Key Insights](#-Key-Insights)
-- [Recommendations](#-Recommendations)
-- [Limitations](#-Limitations)
-- [Implementation Plan](#-Implementation-Plan)
-- [Business Impact](#-Business-Impact)
+- [Executive Summary](#executive-summary)
+- [Business Problem](#business-problem)
+- [Tools Used](#tools-used)
+- [Methodology](#methodology)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Dashboard Preview](#dashboard-preview)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [Implementation Plan](#implementation-plan)
+- [Business Impact](#business-impact)
 
 ---
 
