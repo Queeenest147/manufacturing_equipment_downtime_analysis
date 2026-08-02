@@ -1,4 +1,4 @@
-# 🏭 Daikibo Manufacturing Operations Analytics
+# Daikibo Manufacturing Operations Analytics
 ### Machine Downtime & Gender Pay Equality Analysis
 
 <p align="center">
